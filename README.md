@@ -2,6 +2,7 @@ twitCast
 ========
 
 !!Under Construction!!
+This project is not fully functional at this stage.
 
 twitCast is a twitter dashboard for chromecast that streams tweets in real time to the display.
 
